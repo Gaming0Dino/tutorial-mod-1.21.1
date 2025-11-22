@@ -3,6 +3,7 @@ package net.gaming0dino.tutorialmod;
 import net.fabricmc.api.ModInitializer;
 
 import net.gaming0dino.tutorialmod.block.ModBlocks;
+import net.gaming0dino.tutorialmod.entity.ModEntities;
 import net.gaming0dino.tutorialmod.item.ModItemGroups;
 import net.gaming0dino.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
@@ -19,5 +20,6 @@ public class TutorialMod implements ModInitializer {
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
         ModItemGroups.registerItemGroups();
+        ModEntities.registerModEntities();
 	}
 }

@@ -2,6 +2,7 @@ package net.gaming0dino.tutorialmod.block;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.gaming0dino.tutorialmod.TutorialMod;
+import net.gaming0dino.tutorialmod.block.custom.ChairBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.ExperienceDroppingBlock;
@@ -29,6 +30,9 @@ public class ModBlocks {
     public static final Block PINK_GARNET_DEEPSLATE_ORE = registerBlock("pink_garnet_deepslate_ore",
             new ExperienceDroppingBlock(UniformIntProvider.create(2, 5),
                     AbstractBlock.Settings.create().strength(3f).requiresTool().sounds(BlockSoundGroup.DEEPSLATE)));
+
+    public static final Block CHAIR = registerBlock("chair",
+            new ChairBlock(AbstractBlock.Settings.create().nonOpaque()));
 
 
 
