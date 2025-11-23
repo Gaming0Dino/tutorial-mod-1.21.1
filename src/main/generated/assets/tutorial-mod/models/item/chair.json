@@ -1,3 +1,6 @@
 {
-  "parent": "tutorial-mod:block/chair"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tutorial-mod:item/chair"
+  }
 }

@@ -29,5 +29,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.RAW_PINK_GARNET, Models.GENERATED);
 
         itemModelGenerator.register(ModItems.DYNAMITE, Models.GENERATED);
+
+        itemModelGenerator.register(ModBlocks.CHAIR.asItem(), Models.GENERATED);
     }
 }
