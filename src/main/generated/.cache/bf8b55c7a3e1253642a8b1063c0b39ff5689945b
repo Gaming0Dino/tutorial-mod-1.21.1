@@ -1,0 +1,18 @@
+// 1.21.1	2025-11-23T19:48:55.4110229	Tutorial Mod/Model Definitions
+9a973333c811b21702b5fc3827d03d45891c44d6 assets\tutorial-mod\models\item\raw_pink_garnet_block.json
+07f8c96f2968a05d9929c961c75e1afd2fe984d5 assets\tutorial-mod\models\block\raw_pink_garnet_block.json
+63a9d50f38f89aedb94ceab04beb9a873594a11b assets\tutorial-mod\models\item\chair.json
+a0ea75910ed2e39013d7cf16c7202db386270361 assets\tutorial-mod\models\item\raw_pink_garnet.json
+c050e3c2b028f1d32091487c037b65f42ee5cd75 assets\tutorial-mod\models\item\pink_garnet_block.json
+b9ccd68386e9b137372d28d9568e2ba644f217f5 assets\tutorial-mod\blockstates\pink_garnet_ore.json
+1039c0f5d00b15e0adb9818de615f18fcaa957ea assets\tutorial-mod\models\block\pink_garnet_ore.json
+e35525b9e32663dd5078b1fd4eea4e2d10e3a487 assets\tutorial-mod\models\block\pink_garnet_block.json
+448bfd580c32a7ddf3efca2b28a9b99e89ea7a44 assets\tutorial-mod\models\item\pink_garnet.json
+a7bb5cfdd32227c56d7166ac9bbf0afd221ffdf3 assets\tutorial-mod\models\item\pink_garnet_ore.json
+a69b48c132b064143a313c1e4a765ac13569523f assets\tutorial-mod\blockstates\pink_garnet_deepslate_ore.json
+db1bf05d7e4520009acb596f25700e4e8f342046 assets\tutorial-mod\blockstates\chair.json
+73c2155caeffd13b6e44b9485c6cf9044e372296 assets\tutorial-mod\models\item\pink_garnet_deepslate_ore.json
+3f88ea5f7f7bc95712998c350b32baaa42719359 assets\tutorial-mod\blockstates\pink_garnet_block.json
+4462d595ec1d87dfc1a350988ac42b05c0dd22c3 assets\tutorial-mod\models\item\dynamite.json
+de2a8e103c480939355e57e6a88b4fa63dd79a64 assets\tutorial-mod\blockstates\raw_pink_garnet_block.json
+46e1013feed5c1af7d832c7385de96b0ecbdcc58 assets\tutorial-mod\models\block\pink_garnet_deepslate_ore.json

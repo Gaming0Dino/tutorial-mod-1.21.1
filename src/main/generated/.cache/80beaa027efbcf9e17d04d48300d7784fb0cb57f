@@ -1,0 +1,4 @@
+// 1.21.1	2025-11-23T19:48:55.4141468	Tutorial Mod/Tags for minecraft:block
+aaa49ea4fdc74b060b1a28b51b9e35091891c6ea data\minecraft\tags\block\needs_iron_tool.json
+4efa8f357cbbf8115a5ca38050937f58be9d496f data\minecraft\tags\block\mineable\pickaxe.json
+17fe1c70e7dc5239220835216703373506c6d4c5 data\minecraft\tags\block\needs_diamond_tool.json
