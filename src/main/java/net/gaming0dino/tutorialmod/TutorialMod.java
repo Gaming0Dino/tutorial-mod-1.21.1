@@ -21,5 +21,5 @@ public class TutorialMod implements ModInitializer {
         ModBlocks.registerModBlocks();
         ModItemGroups.registerItemGroups();
         ModEntities.registerModEntities();
-	}
+    }
 }

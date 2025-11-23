@@ -12,7 +12,7 @@ import net.minecraft.util.TypedActionResult;
 import net.minecraft.world.World;
 
 public class DynamiteItem extends Item {
-    public DynamiteItem(Settings settings) {
+    public DynamiteItem(net.minecraft.item.Item.Settings settings) {
         super(settings);
     }
 

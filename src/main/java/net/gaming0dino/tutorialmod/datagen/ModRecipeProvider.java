@@ -65,5 +65,13 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('S', Items.STICK)
                 .criterion(hasItem(ModItems.PINK_GARNET), conditionsFromItem(ModItems.PINK_GARNET))
                 .offerTo(exporter, Identifier.of(TutorialMod.MOD_ID, "dynamite"));
+
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.CHAIR)
+                .pattern("#  ")
+                .pattern("###")
+                .pattern("# #")
+                .input('#', Items.BLACK_WOOL)
+                .criterion(hasItem(Items.BLACK_WOOL), conditionsFromItem(Items.BLACK_WOOL))
+                .offerTo(exporter);
     }
 }

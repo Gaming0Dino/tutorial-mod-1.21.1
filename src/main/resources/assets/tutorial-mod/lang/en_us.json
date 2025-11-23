@@ -10,5 +10,6 @@
   "block.tutorial-mod.chair":  "Chair",
 
   "itemgroup.tutorial-mod.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.tutorial-mod.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.tutorial-mod.pink_garnet_blocks": "Pink Garnet Blocks",
+  "itemgroup.tutorial-mod.other": "Other Items"
 }
