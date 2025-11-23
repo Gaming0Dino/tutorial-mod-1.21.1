@@ -58,11 +58,12 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(ModBlocks.PINK_GARNET_BLOCK), conditionsFromItem(ModBlocks.PINK_GARNET_BLOCK))
                 .offerTo(exporter);
 
-        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.DYNAMITE, 4)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.DYNAMITE, 2)
+                .pattern("G")
                 .pattern("P")
-                .pattern("S")
+                .pattern("P")
                 .input('P', ModItems.PINK_GARNET)
-                .input('S', Items.STICK)
+                .input('G', Items.GUNPOWDER)
                 .criterion(hasItem(ModItems.PINK_GARNET), conditionsFromItem(ModItems.PINK_GARNET))
                 .offerTo(exporter, Identifier.of(TutorialMod.MOD_ID, "dynamite"));
 

@@ -1,4 +1,4 @@
-// 1.21.1	2025-11-23T20:59:15.0044611	Tutorial Mod/Recipes
+// 1.21.1	2025-11-23T22:05:54.5748787	Tutorial Mod/Recipes
 816aaaac8e36aa231b3ba623923b43c8321d688c data\tutorial-mod\advancement\recipes\misc\pink_garnet_from_smelting_pink_garnet_deepslate_ore.json
 baad44041ae684550c81f6fee8aeeaee6b02f54e data\tutorial-mod\recipe\pink_garnet.json
 00461f93b463532f4111621e55c6f92982fc8ef1 data\tutorial-mod\recipe\pink_garnet_from_smelting_raw_pink_garnet.json
@@ -9,7 +9,7 @@ a8ab69fd6a367f3ab771e23ff9ace2ff7494f124 data\tutorial-mod\advancement\recipes\m
 d3ed01843269db6fe93e3aa8d5efbfc65ef1bf9f data\tutorial-mod\advancement\recipes\misc\pink_garnet_from_blasting_raw_pink_garnet.json
 ca480582d769a880a3e2ad12d63b83bd0db1c7ec data\tutorial-mod\recipe\pink_garnet_from_blasting_raw_pink_garnet.json
 d5771afa5a2c2deb146cfab49c36d9d54ba48f33 data\tutorial-mod\recipe\raw_pink_garnet.json
-a4432bf48bc0976ba1416be8289ee34b62cc0b0d data\tutorial-mod\recipe\dynamite.json
+d3ace703cb477acd93392a06295899ccc7041ee1 data\tutorial-mod\recipe\dynamite.json
 b419f9ce7cb17c45b3d532139b5cbc92f5428829 data\tutorial-mod\advancement\recipes\misc\pink_garnet_from_smelting_raw_pink_garnet.json
 4d4cc32eb62efb3c2ace1d4fd840cb2fed2a874f data\tutorial-mod\recipe\pink_garnet_block.json
 7fc69a1720522b8d16592f589dccbdef80072cc9 data\tutorial-mod\recipe\pink_garnet_from_blasting_pink_garnet_deepslate_ore.json

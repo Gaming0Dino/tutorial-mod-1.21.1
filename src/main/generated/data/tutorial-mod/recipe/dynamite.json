@@ -2,19 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
     "P": {
       "item": "tutorial-mod:pink_garnet"
-    },
-    "S": {
-      "item": "minecraft:stick"
     }
   },
   "pattern": [
+    "G",
     "P",
-    "S"
+    "P"
   ],
   "result": {
-    "count": 4,
+    "count": 2,
     "id": "tutorial-mod:dynamite"
   }
 }
