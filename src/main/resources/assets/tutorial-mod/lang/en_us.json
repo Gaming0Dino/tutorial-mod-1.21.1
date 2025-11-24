@@ -11,5 +11,12 @@
 
   "itemgroup.tutorial-mod.pink_garnet_items": "Pink Garnet Items",
   "itemgroup.tutorial-mod.pink_garnet_blocks": "Pink Garnet Blocks",
-  "itemgroup.tutorial-mod.other": "Other Items"
+  "itemgroup.tutorial-mod.other": "Other Items",
+
+  "painting.tutorial-mod.world.title": "World",
+  "painting.tutorial-mod.world.author": "NanoAttack",
+  "painting.tutorial-mod.shrimp.title": "Shrimp",
+  "painting.tutorial-mod.shrimp.author": "NanoAttack",
+  "painting.tutorial-mod.saw_them.title": "Saw Them",
+  "painting.tutorial-mod.saw_them.author": "NanoAttack"
 }

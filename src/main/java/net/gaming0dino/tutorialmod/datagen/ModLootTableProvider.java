@@ -29,6 +29,7 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
         addDrop(ModBlocks.PINK_GARNET_BLOCK);
         addDrop(ModBlocks.RAW_PINK_GARNET_BLOCK);
+        addDrop(ModBlocks.CHAIR);
 
         // Normal ore (vanilla-style)
         addDrop(ModBlocks.PINK_GARNET_ORE,
